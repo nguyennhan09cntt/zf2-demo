@@ -40,6 +40,7 @@ Alternatively, you can install using native git submodules:
     git clone git://github.com/nguyennhan09cntt/zf2-demo.git--recursive
 
 ZendFramework Lib
+----------------
 php composer.phar update
 
 Web Server Setup

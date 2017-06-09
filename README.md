@@ -1,4 +1,4 @@
-ZendSkeletonApplication
+ZendFramework 2 Application
 =======================
 
 Introduction
